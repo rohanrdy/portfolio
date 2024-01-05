@@ -25,7 +25,7 @@ organizations:
     url: https://www.srmist.edu.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Junior year at SRMIST, KTR.
+bio: Junior year at SRMIST, KTR, Chennai, Tamil Nadu.
 
 # Interests to show in About widget
 #interests:
@@ -42,7 +42,7 @@ bio: Junior year at SRMIST, KTR.
 education:
   courses:
     - course: B.tech in Electronics and Communication Engineering
-      institution: SRM Institute of Science and Technology, Kattankulathur
+      institution: SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu
       year: 2025
     - course: Class XII
       institution: Narayana Junior College, Hyderabad, Telangana

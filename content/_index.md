@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: markdown
     content:
-      title: GPA
+      title: My GPA @SRM
       text: |-
         {{< figure src="GPA-Details.svg" theme="light" >}}
         {style="text-align: center;"}
