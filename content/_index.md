@@ -181,6 +181,14 @@ sections:
         {{< gallery album="volunteer" >}}
     design:
       columns: '3'
+  - block: markdown
+    content:
+      title: 'Gallery'
+      subtitle: ''
+      text: |-
+        {{< gallery album="gallery" >}}
+    design:
+      columns: '3'
   - block: contact
     id: contact
     content:
