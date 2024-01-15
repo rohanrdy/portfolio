@@ -137,7 +137,17 @@ sections:
           organization: University of California, Irvine Division of Continuing Education | Coursera
           organization_url: https://uci.edu/
           title: The Raspberry Pi Platform and Python Programming for the Raspberry Pi
-          url: 'https://www.coursera.org/learn/raspberry-pi-platform'
+          url: 'https://www.coursera.org/learn/raspberry-pi-platform/'
+      items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/349N5TMFYHLR
+          date_end: ''
+          date_start: '2024-01-15'
+          description: ''
+          icon: coursera
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/
+          title: Generative AI with Large Language Models
+          url: 'https://www.coursera.org/learn/generative-ai-with-llms/'
     design:
       columns: '3'
   - block: markdown
