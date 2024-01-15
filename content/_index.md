@@ -149,7 +149,7 @@ sections:
           title: Generative AI with Large Language Models
           url: 'https://www.coursera.org/learn/generative-ai-with-llms/'
     design:
-      columns: '3'
+      columns: 'w'
   - block: markdown
     content:
       title: AICTE Parakh SLA
