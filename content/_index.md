@@ -138,7 +138,6 @@ sections:
           organization_url: https://uci.edu/
           title: The Raspberry Pi Platform and Python Programming for the Raspberry Pi
           url: 'https://www.coursera.org/learn/raspberry-pi-platform/'
-      items:
         - certificate_url: https://www.coursera.org/account/accomplishments/verify/349N5TMFYHLR
           date_end: ''
           date_start: '2024-01-15'
